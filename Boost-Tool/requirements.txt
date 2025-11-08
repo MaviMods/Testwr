@@ -2,3 +2,4 @@ flask==2.3.3
 colorama==0.4.6
 fade==0.2.1
 gunicorn==21.2.0
+httpx==0.24.1
